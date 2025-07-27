@@ -4,7 +4,7 @@ Contact: infobarbosa@gmail.com
 Github: [infobarbosa](https://github.com/infobarbosa)
 
 - **Formato**: JSON
-- **Nomenclatura do arquivo**: `pagamentos-YYYY-MM-DD.csv.gz`
+- **Nomenclatura do arquivo**: `pagamentos-YYYY-MM-DD.json.gz`
 - **Estrutura**:
 
  | Atributo           | Tipo      | Obs                                                            | 
